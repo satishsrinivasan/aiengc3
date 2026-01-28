@@ -14,4 +14,4 @@ wheels/
 misc/keys.py
 
 #qdrant storage
-#qdrant_storage/
+qdrant_storage/
