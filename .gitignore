@@ -12,3 +12,6 @@ wheels/
 #LLM API Secrets
 .env
 misc/keys.py
+
+#qdrant storage
+#qdrant_storage/
