@@ -11,3 +11,4 @@ wheels/
 
 #LLM API Secrets
 .env
+misc/keys.py
